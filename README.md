@@ -9,7 +9,7 @@ This neural network classifies the kind of small talk of a short phrase, greetin
 Feel free to further tune the hyperparameters or build upon the model!
 
 ## The Dataset
-The dataset is built into Tensorflow and includes movie reviews (as inputs) and their corresponding tone (negative or positive, encoded as 0 and 1 respectively). As part of data preprocessing, each input string is standardized to a length of 250 words (padded with zeros) and comes pre-encoded.
+The dataset can be found at this link: https://www.kaggle.com/datasets/salmanfaroz/small-talk-intent-classification-data. Credit for the dataset collection goes to **Onurdyar**  and others on *Kaggle*. It describes what type of small talk a piece of text is. To view the various kinds of small talk classified by the dataset, look at the dataset attached at the link or in the repository.
 
 ## Libraries
 This neural network was created with the help of the Tensorflow library.
