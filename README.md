@@ -1,2 +1,3 @@
-# SmallTalkClassifier
-A natural language processing algorithm that classifies short phrases as different kinds of small talk.
+# Small Talk Classifier
+
+## The Neural Network
