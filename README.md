@@ -12,6 +12,8 @@ Feel free to further tune the hyperparameters or build upon the model!
 The dataset can be found at this link: https://www.kaggle.com/datasets/salmanfaroz/small-talk-intent-classification-data. Credit for the dataset collection goes to **Onurdyar**  and others on *Kaggle*. It describes what type of small talk a piece of text is. To view the various kinds of small talk classified by the dataset, look at the dataset attached at the link or in the repository.
 
 ## Libraries
-This neural network was created with the help of the Tensorflow library.
+This neural network was created with the help of the Tensorflow and Scikit-Learn libraries.
 - Tensorflow's Website: https://www.tensorflow.org/
 - Tensorflow Installation Instructions: https://www.tensorflow.org/install
+- Scikit-Learn's Website: https://scikit-learn.org/stable/
+- Scikit-Learn's Installation Instructions: https://scikit-learn.org/stable/install.html
